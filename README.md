@@ -9,7 +9,7 @@ This project is about re-impelementing a few container types of the C++ standard
 | [std::stack](http://www.cplusplus.com/reference/stack/stack) | Type of container adaptor, specifically designed to operate in a LIFO context (last-in first-out), where elements are inserted and extracted only from one end of the container |
 | [std::vector](http://www.cplusplus.com/reference/vector/vector) | Container which stores elements of a given type in a linear arrangement, has dynamic memory management, and allows fast random access to any element |
 | [std::map](http://www.cplusplus.com/reference/map/map) | An associative containers that store elements formed by a combination of a key value and a mapped value, following a specific order |
-| [std::set](http://www.cplusplus.com/reference/set/set) | Set is a container that store unique elements following a specific order |
+| [std::set](http://www.cplusplus.com/reference/set/set) | Set is a container that store unique elements following a specific order. Stored elements must be unique and cannot be modified once it is stored in the set |
 
 
 
