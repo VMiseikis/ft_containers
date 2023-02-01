@@ -14,7 +14,7 @@ This project is about re-impelementing a few container types of the C++ standard
 
 
 **Requirements:**
-- `ft:map` and `ft::set` must be implemented using self ordering Red-Black binary tree
+- `ft:map` and `ft::set` must be implemented using [self ordering Red-Black binary search tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
 - [std::allocator](https://en.cppreference.com/w/cpp/memory/allocator) must be used
 - it is mandatory to implement:</br>
 &nbsp;&nbsp; - [std::iterator_traits](https://en.cppreference.com/w/cpp/iterator/iterator_traits) </br>
@@ -30,6 +30,18 @@ This project is about re-impelementing a few container types of the C++ standard
 **Project related documents:**
 - [Subject pdf](https://github.com/VMiseikis/42-Course/blob/master/Subject%20PDFs/ft_containers.en.subject.pdf) </br>
 
+## Sources
+- [C++ reference](https://en.cppreference.com/w/)
+- [How to write an STL compatible container](https://medium.com/@vgasparyan1995/how-to-write-an-stl-compatible-container-fc5b994462c6)
+- [What is Allocator](https://medium.com/@vgasparyan1995/what-is-an-allocator-c8df15a93ed)
+- [Type traits](https://www.codeproject.com/Articles/774841/Cplusplus-type-traits-Header)
+- [Templates](https://www.codeproject.com/Articles/257589/An-Idiots-Guide-to-Cplusplus-Templates-Part-1)
+- [Custom Iterators](https://anderberg.me/2016/07/04/c-custom-iterators/)
+- [Custom iterators in modern C++](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
+- [Iterator traits](https://www.codeproject.com/Articles/36530/An-Introduction-to-Iterator-Traits)
+- [SFINAE and enable_if](https://eli.thegreenplace.net/2014/sfinae-and-enable_if/)
+- [Red-Black Binary Tree](https://www.youtube.com/watch?v=4KDovab_OS8&t=938s)
+- [Red-Black Binary Tree examples](https://www.youtube.com/watch?v=PgO_Xj7DC1A)
 
 ## Grading:
 <div align="center">
